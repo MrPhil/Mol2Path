@@ -1,0 +1,11 @@
+numpy>=1.23,<2
+pandas>=1.5
+scikit-learn>=1.2
+scipy>=1.9
+Pillow>=8.2
+six>=1.16
+matplotlib>=3.4
+torch~=2.3.0
+torchvision~=0.18.0
+tqdm>=4.60
+prettytable>=3.0
